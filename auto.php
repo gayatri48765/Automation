@@ -7,4 +7,4 @@
 
 </body>
 </html>
-<img src="https://bucket4876.s3.ap-south-1.amazonaws.com/aws_tera.jpg" width=50%/>
+<img src="https://bucket4876.s3.ap-south-1.amazonaws.com/aws_efs.jpg" width=50%/>
